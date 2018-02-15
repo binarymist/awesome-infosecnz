@@ -13,7 +13,7 @@ A curated list of resources contributed to and used by [InfoSecNZ](https://githu
 * [Information](#information)
   * [Guides](#guides)
 * [Training](#training)
-  * [Capture The Flag (CTF)](#capture-the-flag-(ctf))
+  * [Capture The Flag (CTF)](#capture-the-flag-ctf)
   * [Conferences](#conferences)
   * [Hands-On](#hands-on)
   * [Podcasts](#podcasts)
