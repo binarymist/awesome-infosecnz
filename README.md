@@ -1,11 +1,11 @@
 # Awesome-InfoSecNZ
 
-A curated list of resources contributed to and used by [InfoSecNZ](https://github.com/binarymist/InfoSecNZ) for learning about, working with, and improving everyone's security. Don't submit unless what you're submitting is awesome.
+A curated list of resources contributed to and used by [InfoSecNZ](https://github.com/binarymist/InfoSecNZ) for learning about, working with, and improving everyone's security. Don't submit unless what you're submitting is awesome. If in doubt, just ask, we don't bite.
 
 # Contributing
 
 1. Become a member of the [InfoSecNZ](https://github.com/binarymist/InfoSecNZ) Slack
-2. Discuss your intended change on InfoSecNZ Slack, or open a pull request and follow the guidelines [here](contributing.md).
+2. Discuss your intended change on [InfoSecNZ](https://github.com/binarymist/InfoSecNZ) Slack, or open a pull request and follow the guidelines [here](contributing.md).
 
 
 ## Table of Contents
@@ -62,9 +62,9 @@ A curated list of resources contributed to and used by [InfoSecNZ](https://githu
 
 ## Defensive Development
 
-* [Docker Security - Quick Reference](https://binarymist.io/publication/docker-security/)
-* [Holistic Info-Sec for Web Developers (Fascicle 0)](https://f0.holisticinfosecforwebdevelopers.com/)
-* [Holistic Info-Sec for Web Developers (Fascicle 1)](https://f1.holisticinfosecforwebdevelopers.com/)
+* [Docker Security - Quick Reference](https://binarymist.io/publication/docker-security/) - The security defaults of Docker are established to get you up and running (“just work”) quickly, rather than being the most secure. There are many default configurations that can be improved upon. This book will help you do just that
+* [Holistic Info-Sec for Web Developers (Fascicle 0)](https://f0.holisticinfosecforwebdevelopers.com/) - The first part of a three part book series providing broad and in-depth coverage on what Software Developers, Engineers and architects need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises
+* [Holistic Info-Sec for Web Developers (Fascicle 1)](https://f1.holisticinfosecforwebdevelopers.com/) - The second part of a three part book series providing broad and in-depth coverage on what Software Developers, Engineers and architects need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises
 
 <br>
 
