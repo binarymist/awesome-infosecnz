@@ -26,6 +26,8 @@ A curated list of resources contributed to and used by [InfoSecNZ](https://githu
 
 ## Guides
 
+* [How to start RE/malware analysis?](https://hshrzd.wordpress.com/how-to-start/)
+
 # Media
 
 The [infosec-media](https://github.com/BrendanSe/-Infosec-Media-) channel on [InfoSecNZ](https://github.com/binarymist/infosecnz) slack
