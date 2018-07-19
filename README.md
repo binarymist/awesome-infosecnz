@@ -26,6 +26,9 @@ A curated list of resources contributed to and used by [InfoSecNZ](https://githu
 
 ## Guides
 
+# Media
+
+The [infosec-media](https://github.com/BrendanSe/-Infosec-Media-) channel on [InfoSecNZ](https://github.com/binarymist/infosecnz) slack
 
 # Training
 
