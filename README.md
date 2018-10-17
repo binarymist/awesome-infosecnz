@@ -27,6 +27,7 @@ A curated list of resources contributed to and used by [InfoSecNZ](https://githu
 ## Guides
 
 * [How to start RE/malware analysis?](https://hshrzd.wordpress.com/how-to-start/)
+* [RE/malware analysis 101 - Malware Unicorn](https://securedorg.github.io/RE101/)
 
 # Media
 
@@ -38,7 +39,7 @@ The [infosec-media](https://github.com/BrendanSe/-Infosec-Media-) channel on [In
 
 * [Awesome CTF](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and software
 * [VulnHub](https://www.vulnhub.com/) - A collection of purposely vulnerable CTFs and Labs 
-
+* [HacktheBox](https://www.hackthebox.eu/) - OSCP Style Virtual Labs 
 ## Conferences
 
 * [OWASP NZ Day](https://www.owasp.org/index.php/OWASP_New_Zealand_Day_2018) - To educate and inform those working in the tech industry of information security topics
