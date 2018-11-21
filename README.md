@@ -63,6 +63,8 @@ The [infosec-media](https://github.com/BrendanSe/-Infosec-Media-) channel on [In
 
 # Tools
 
+* [zaproxy](https://github.com/zaproxy/zap-api-nodejs) - OWASP ZAP Node API: Established and officially maintained API for consuming ZAP programmatically. Useful for security regression testing.
+
 # Books
 
 ## Defensive Development
