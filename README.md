@@ -10,26 +10,36 @@ A curated list of resources contributed to and used by [InfoSecNZ](https://githu
 
 ## Table of Contents
 
+* [Books](#books)
+  * [Defensive Development](#defensive-development)
 * [Information](#information)
   * [Guides](#guides)
 * [Media](#media)
+  * [Blue Team](#blue-team)
+  * [Conference YouTube](#conference-youtube)
+  * [DFIR YouTube](#dfir-youtube)
   * [Infosec Podcasts](#infosec-podcasts)
   * [Live Streams](#live-streams)
   * [Locksport YouTube](l#ocksport-youtube)
-  * [Conference YouTube](#conference-youtube)
-  * [DFIR YouTube](#dfir-youtube)
-  * [Blue Team](#blue-team)
-  * [Red Team](#red-team)
   * [OSINT](#osint)
+  * [Red Team](#red-team)
+  * [Threat Intel](#threat-intel)
+* [Tools](#tools)
 * [Training](#training)
   * [Capture The Flag (CTF)](#capture-the-flag-ctf)
   * [Conferences](#conferences)
   * [Hands-On](#hands-on)
   * [Podcasts](#podcasts)
-* [Tools](#tools)
-* [Books](#books)
-  * [Defensive Development](#defensive-development)
 
+
+# Books
+
+## Defensive Development
+
+* [Docker Security - Quick Reference](https://binarymist.io/publication/docker-security/) - The security defaults of Docker are established to get you up and running (“just work”) quickly, rather than being the most secure. There are many default configurations that can be improved upon. This book will help you do just that
+* [Cloud Security - Quick Reference](https://binarymist.io/publication/cloud-security/) - In this book we walk through threat modelling your Cloud environment. We break down and provide solid understanding of the shared responsibility model, that is: What are the CSPs responsibilities and what are your responsibilities as a consumer of the services that your chosen CSP offers. We provide a set of questions and possible answers to help you evaluate the most suitable CSP for your needs
+* [Holistic Info-Sec for Web Developers (Fascicle 0)](https://f0.holisticinfosecforwebdevelopers.com/) - The first part of a three part book series providing broad and in-depth coverage on what Software Developers, Engineers and architects need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises
+* [Holistic Info-Sec for Web Developers (Fascicle 1)](https://f1.holisticinfosecforwebdevelopers.com/) - The second part of a three part book series providing broad and in-depth coverage on what Software Developers, Engineers and architects need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises
 
 # Information
 
@@ -41,6 +51,24 @@ A curated list of resources contributed to and used by [InfoSecNZ](https://githu
 
 The infosec-media channel on [InfoSecNZ](https://github.com/binarymist/infosecnz) slack.  
 A list of content we want alerts for new posts in InfosecNZ. Ideally provide the RSS link if you can.  
+
+## Blue Team
+
+## Conference YouTube
+
+* [Adrian Crenshaw](https://www.youtube.com/channel/UC4PBNDLlS4d75MP0xxcukGA) (Twitter: @irongeek_adc)
+* [Blackhat](https://www.youtube.com/user/BlackHatOfficialYT)
+* [Bsides London](https://www.youtube.com/channel/UCXXNOelGiY_N96a2nfhcaDA)
+* [Defcon](https://www.youtube.com/user/DEFCONConference)
+
+## DFIR YouTube
+
+* [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
+* [hasherezade](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg)
+* [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A) (Twitter: @struppigel)
+* [MalwareTech](https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ)
+* [Open Analysis Labs](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
+* [SANS DFIR](https://www.youtube.com/user/robtlee73) (operated by @RobertMLee)
 
 ## Infosec Podcasts
 
@@ -67,31 +95,15 @@ A list of content we want alerts for new posts in InfosecNZ. Ideally provide the
 * [Lockpicking Lawyer](https://www.youtube.com/channel/UCm9K6rby98W8JigLoZOh6FQ)
 * [Lock Noob](https://www.youtube.com/channel/UCxZRF3OG7gapQ8kacWUwj2A)
 
-## Conference YouTube
-
-* [Adrian Crenshaw](https://www.youtube.com/channel/UC4PBNDLlS4d75MP0xxcukGA) (Twitter: @irongeek_adc)
-* [Blackhat](https://www.youtube.com/user/BlackHatOfficialYT)
-* [Bsides London](https://www.youtube.com/channel/UCXXNOelGiY_N96a2nfhcaDA)
-* [Defcon](https://www.youtube.com/user/DEFCONConference)
-
-## DFIR YouTube
-
-* [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
-* [hasherezade](https://www.youtube.com/channel/UCNWVswPNgn5kutPNa5sprkg)
-* [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A) (Twitter: @struppigel)
-* [MalwareTech](https://www.youtube.com/channel/UCLDnEn-TxejaDB8qm2AUhHQ)
-* [Open Analysis Labs](https://www.youtube.com/channel/UC--DwaiMV-jtO-6EvmKOnqg)
-* [SANS DFIR](https://www.youtube.com/user/robtlee73) (operated by @RobertMLee)
-
-## Blue Team
+## OSINT
 
 ## Red Team
 
-## OSINT
-
 ## Threat Intel
 
-## Others?
+# Tools
+
+* [zaproxy](https://github.com/zaproxy/zap-api-nodejs) - OWASP ZAP Node API: Established and officially maintained API for consuming ZAP programmatically. Useful for security regression testing.
 
 # Training
 
@@ -122,18 +134,7 @@ A list of content we want alerts for new posts in InfosecNZ. Ideally provide the
 * [The Social-Engineer Podcast](https://www.social-engineer.org/podcast/) - As the name says, this is for those interested in social engineering
 * [wh1t3rabbit](http://podcast.wh1t3rabbit.net/) - Covering many security categories
 
-# Tools
 
-* [zaproxy](https://github.com/zaproxy/zap-api-nodejs) - OWASP ZAP Node API: Established and officially maintained API for consuming ZAP programmatically. Useful for security regression testing.
-
-# Books
-
-## Defensive Development
-
-* [Docker Security - Quick Reference](https://binarymist.io/publication/docker-security/) - The security defaults of Docker are established to get you up and running (“just work”) quickly, rather than being the most secure. There are many default configurations that can be improved upon. This book will help you do just that
-* [Cloud Security - Quick Reference](https://binarymist.io/publication/cloud-security/) - In this book we walk through threat modelling your Cloud environment. We break down and provide solid understanding of the shared responsibility model, that is: What are the CSPs responsibilities and what are your responsibilities as a consumer of the services that your chosen CSP offers. We provide a set of questions and possible answers to help you evaluate the most suitable CSP for your needs
-* [Holistic Info-Sec for Web Developers (Fascicle 0)](https://f0.holisticinfosecforwebdevelopers.com/) - The first part of a three part book series providing broad and in-depth coverage on what Software Developers, Engineers and architects need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises
-* [Holistic Info-Sec for Web Developers (Fascicle 1)](https://f1.holisticinfosecforwebdevelopers.com/) - The second part of a three part book series providing broad and in-depth coverage on what Software Developers, Engineers and architects need to know in order to create robust, reliable, maintainable and secure software, networks and other, that are delivered continuously, on time, with no nasty surprises
 
 <br>
 
