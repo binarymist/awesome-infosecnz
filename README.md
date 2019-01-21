@@ -20,7 +20,7 @@ A curated list of resources contributed to and used by [InfoSecNZ](https://githu
   * [DFIR YouTube](#dfir-youtube)
   * [Infosec Podcasts](#infosec-podcasts)
   * [Live Streams](#live-streams)
-  * [Locksport YouTube](#ocksport-youtube)
+  * [Locksport YouTube](#locksport-youtube)
   * [OSINT](#osint)
   * [Red Team](#red-team)
   * [Threat Intel](#threat-intel)
