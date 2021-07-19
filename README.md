@@ -25,6 +25,7 @@ A curated list of resources contributed to and used by [InfoSecNZ](https://githu
   * [Red Team](#red-team)
   * [Threat Intel](#threat-intel)
 * [Tools](#tools)
+  * [Dynamic Application Security Testing](#dynamic-application-security-testing)
 * [Training](#training)
   * [Capture The Flag (CTF)](#capture-the-flag-ctf)
   * [Conferences](#conferences)
@@ -103,7 +104,11 @@ A list of content we want alerts for new posts in InfosecNZ. Ideally provide the
 
 # Tools
 
-* [zaproxy](https://github.com/zaproxy/zap-api-nodejs) - OWASP ZAP Node API: Established and officially maintained API for consuming ZAP programmatically. Useful for security regression testing.
+## Dynamic Application Security Testing
+
+* [PurpleTeam](https://purpleteam-labs.com) - A security regression testing SaaS and CLI, perfect for inserting into your build pipelines. You don’t need to write any tests yourself. purpleteam is smart enough to know how to test, you just need to provide a Job file which tells purpleteam what you want tested. It has two main environments `local` and `cloud`
+  * `local` is OWASP - set everything up yourself in your own environment
+  * `cloud` is a proprietary offering with everything hosted for you in the cloud. You just need to [configure and run the CLI](https://github.com/purpleteam-labs/purpleteam)
 
 # Training
 
